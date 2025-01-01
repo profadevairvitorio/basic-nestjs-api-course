@@ -218,3 +218,4 @@ export class AppService {
 // feat: Small update to service logic
 // feat: Updated log messages for debugging
 // feat: Improved error handling in service
+// feat: Refactored function for better readability
