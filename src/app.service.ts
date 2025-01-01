@@ -210,3 +210,4 @@ export class AppService {
 // feat: Removed unused imports
 // feat: Updated log messages for debugging
 // feat: Minor code improvement
+// feat: Added validation checks
