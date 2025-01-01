@@ -235,3 +235,4 @@ export class AppService {
 // feat: Simplified conditional statements
 // feat: Refactored function for better readability
 // feat: Updated log messages for debugging
+// feat: Small update to service logic
