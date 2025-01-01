@@ -216,3 +216,4 @@ export class AppService {
 // feat: Enhanced data transformation logic
 // feat: Added validation checks
 // feat: Small update to service logic
+// feat: Updated log messages for debugging
