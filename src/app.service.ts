@@ -232,3 +232,4 @@ export class AppService {
 // feat: Refactored function for better readability
 // feat: Optimized performance of a key function
 // feat: Minor code improvement
+// feat: Simplified conditional statements
