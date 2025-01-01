@@ -226,3 +226,4 @@ export class AppService {
 // feat: Removed unused imports
 // feat: Enhanced data transformation logic
 // feat: Updated log messages for debugging
+// feat: Simplified conditional statements
