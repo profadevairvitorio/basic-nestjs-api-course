@@ -303,3 +303,4 @@ export class AppService {
 // feat: Optimized performance of a key function
 // feat: Simplified conditional statements
 // feat: Improved error handling in service
+// feat: Updated log messages for debugging
