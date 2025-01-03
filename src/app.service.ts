@@ -290,3 +290,4 @@ export class AppService {
 // feat: Minor code improvement
 // feat: Optimized performance of a key function
 // feat: Small update to service logic
+// feat: Updated log messages for debugging
