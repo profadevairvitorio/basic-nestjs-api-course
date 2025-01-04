@@ -323,3 +323,4 @@ export class AppService {
 // feat: Updated log messages for debugging
 // feat: Enhanced data transformation logic
 // feat: Removed unused imports
+// feat: Improved error handling in service
