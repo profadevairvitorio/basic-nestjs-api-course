@@ -311,3 +311,4 @@ export class AppService {
 // feat: Small update to service logic
 // feat: Simplified conditional statements
 // feat: Improved error handling in service
+// feat: Added validation checks
