@@ -326,3 +326,4 @@ export class AppService {
 // feat: Improved error handling in service
 // feat: Simplified conditional statements
 // feat: Removed unused imports
+// feat: Refactored function for better readability
