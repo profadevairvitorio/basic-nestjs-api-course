@@ -403,3 +403,4 @@ export class AppService {
 // feat: Minor code improvement
 // feat: Small update to service logic
 // feat: Updated log messages for debugging
+// feat: Added validation checks
