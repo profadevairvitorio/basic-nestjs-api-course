@@ -408,3 +408,4 @@ export class AppService {
 // feat: Simplified conditional statements
 // feat: Removed unused imports
 // feat: Updated log messages for debugging
+// feat: Added validation checks
