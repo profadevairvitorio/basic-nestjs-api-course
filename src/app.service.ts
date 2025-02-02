@@ -64,3 +64,4 @@ export class AppService {
 // feat: Added validation checks
 // feat: Removed unused imports
 // feat: Minor code improvement
+// feat: Improved error handling in service
