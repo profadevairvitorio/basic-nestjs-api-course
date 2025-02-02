@@ -179,3 +179,4 @@ export class AppService {
 // feat: Enhanced data transformation logic
 // feat: Small update to service logic
 // feat: Added validation checks
+// feat: Simplified conditional statements
