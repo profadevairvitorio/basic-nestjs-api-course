@@ -12,3 +12,4 @@ export class AppService {
 // feat: Removed unused imports
 // feat: Updated log messages for debugging
 // feat: Simplified conditional statements
+// feat: Improved error handling in service
