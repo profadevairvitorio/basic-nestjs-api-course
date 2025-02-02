@@ -180,3 +180,4 @@ export class AppService {
 // feat: Small update to service logic
 // feat: Added validation checks
 // feat: Simplified conditional statements
+// feat: Improved error handling in service
