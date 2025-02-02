@@ -105,3 +105,4 @@ export class AppService {
 // feat: Updated log messages for debugging
 // feat: Removed unused imports
 // feat: Optimized performance of a key function
+// feat: Improved error handling in service
