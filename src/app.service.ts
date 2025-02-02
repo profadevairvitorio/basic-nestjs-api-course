@@ -65,3 +65,4 @@ export class AppService {
 // feat: Removed unused imports
 // feat: Minor code improvement
 // feat: Improved error handling in service
+// feat: Refactored function for better readability
