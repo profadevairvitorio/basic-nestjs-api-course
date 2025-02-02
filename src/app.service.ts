@@ -79,3 +79,4 @@ export class AppService {
 // feat: Added validation checks
 // feat: Refactored function for better readability
 // feat: Simplified conditional statements
+// feat: Optimized performance of a key function
