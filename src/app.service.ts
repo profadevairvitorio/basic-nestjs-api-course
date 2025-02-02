@@ -122,3 +122,4 @@ export class AppService {
 // feat: Minor code improvement
 // feat: Refactored function for better readability
 // feat: Updated log messages for debugging
+// feat: Added validation checks
