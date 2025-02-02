@@ -117,3 +117,4 @@ export class AppService {
 // feat: Small update to service logic
 // feat: Minor code improvement
 // feat: Minor code improvement
+// feat: Simplified conditional statements
