@@ -91,3 +91,4 @@ export class AppService {
 // feat: Improved error handling in service
 // feat: Simplified conditional statements
 // feat: Improved error handling in service
+// feat: Refactored function for better readability
