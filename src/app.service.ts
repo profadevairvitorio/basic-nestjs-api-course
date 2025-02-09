@@ -363,3 +363,4 @@ export class AppService {
 // feat: Enhanced data transformation logic
 // feat: Updated log messages for debugging
 // feat: Enhanced data transformation logic
+// feat: Simplified conditional statements
