@@ -370,3 +370,4 @@ export class AppService {
 // feat: Added validation checks
 // feat: Enhanced data transformation logic
 // feat: Updated log messages for debugging
+// feat: Simplified conditional statements
